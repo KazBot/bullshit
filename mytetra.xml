@@ -18,6 +18,25 @@
     <node crypt="1" id="1502623009afqgpsypia" name="gMACgK267phvNqBpYgczy7g3CNXcgT14"/>
    </node>
    <node crypt="1" id="1502627871gjtj6smj8x" name="bX84fHrRZ+vQbxVkigFcSI+ioBA5M3gf"/>
+   <node crypt="1" id="1502765110sz9m2xqc7j" name="VXSdhvwRtE73nVhGNNxP7srt61Fm8ogb">
+    <node crypt="1" id="1502765131cgl60zi04r" name="U+gSB71llb0TihLF8Yn98rykJMCClRWRQAFNt//bFnY=">
+     <recordtable>
+      <record dir="1502765302b5b7d6nuij" crypt="1" url="" tags="viA6od89jaoC4eIwIz3u42a9eSBd2o7wXX2IjguZBcJaLYqU1yNJbK0t2IPDqg5z" author="" id="1502765302jf3wqaii7p" ctime="20170815084822" name="WuQhS9GurfNHQMwNGVp7v79z2mnzCxHnbPAxo41QooeHepYuQ5PV5g==" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="1" id="1502999743qr1obcgbv9" name="c/rRzuFvhjNSg67oA0Ed5LMSZxn0Lsek">
+    <recordtable>
+     <record dir="1502999776rl5j8wqmjc" crypt="1" url="" tags="ey1b3w6dAvra670LpAjE1YjshJBYXrRm" author="" id="1502999776n3f7l2ddej" ctime="20170818015616" name="AWXjXV726j8hxwPLvgOnU+1Nb6Do1Tov" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="1502995035i32wp5c6px" name="public">
+   <node id="1502995068k530lox24c" name="миостимуляция">
+    <recordtable>
+     <record dir="1502995219klo0qjpd3k" crypt="0" url="https://www.popmech.ru/technologies/237241-mertvetsy-idut-v-boy-voennyy-superkostyum-stimuliruet-refleksy/?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=targetings-PopMechanics&amp;utm_content=archive&amp;utm_term=20170817-237241-tw" tags="robot, reaction, neuralphisics" author="" id="1502995219ntxxusbcnj" ctime="20170818004019" name="военный суперкостюм стимулирует рефлексы" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
